@@ -1,4 +1,4 @@
 - subtitle(2).srt 从剧场版前篇（后篇）流媒体mkv中提取出，是官方听障支持字幕
 - subtitle(2)_cleaned.srt 由上者删除听障支持信息得到
-- subtitle(2)_cleaned.zh.srt 和 subtitle(2)_cleaned.zh.jp.srt 由 [LinguaGacha](https://github.com/neavo/LinguaGacha) 和 [SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) 得到
+- subtitle(2)_cleaned.zh.srt 和 subtitle(2)_cleaned.ja.zh.srt 由 [LinguaGacha](https://github.com/neavo/LinguaGacha) 和 [SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) 得到
 - *.ass 由上者通过 `Aegisub` 导出得到
